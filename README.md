@@ -50,6 +50,12 @@ This dashboard was created to understand the key events that happened before and
 #### Page 2
 ![Titanic Dashboard image 2](https://github.com/Milaabo/Titanic-Analysis/assets/160076767/f1342b1c-0f53-45ed-bb58-6d6f578852be)
 
+## Summary/Inferences
+- ﻿Count of sex for male (843) was higher than female (466).
+- Males accounted for 64.40% of the total passengers aboard.
+- Out of 809 total dead passengers, 688 bodies were found while 121 bodies were missing.
+- Out of the 3 pasenger ticket classes, 3rd class ticket holders had the highest deaths while 1st class ticket holders had the highest survival count.
+- More females survived compared to males. 
 
 
 
