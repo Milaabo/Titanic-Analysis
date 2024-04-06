@@ -1,4 +1,6 @@
 # Titanic-Analysis
+![titanic image](https://github.com/Milaabo/Titanic-Analysis/assets/160076767/f5c5ffa6-3887-47f4-a385-1dfac3d4e46b)
+
 ## Introduction
 
 The titanic dataset typically includes the following columns:
@@ -25,6 +27,21 @@ The titanic dataset typically includes the following columns:
 
 This dashboard was created to understand the key events that happened before and after the titanic accident.
 
+## Project Questions
+
+- What is the gender distribution of the passengers onboard?
+- Out of the dead passengers, how many bodies were found?
+- With regards to passenger ticket class, how many of them survived or died?
+- Did more females survive compared to male?
+
+## Skills Demonstrated
+- DAX
+- Slicers
+- Filters
+- Measures
+- Data Transformation
+- Data Extraction
+- Data Modelling
 
 
 
