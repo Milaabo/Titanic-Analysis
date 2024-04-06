@@ -48,6 +48,8 @@ This dashboard was created to understand the key events that happened before and
 ![Titanic Dashboard image 1](https://github.com/Milaabo/Titanic-Analysis/assets/160076767/5675d20c-24b4-45b9-8629-433964b66baf)
 
 #### Page 2
+![Titanic Dashboard image 2](https://github.com/Milaabo/Titanic-Analysis/assets/160076767/f1342b1c-0f53-45ed-bb58-6d6f578852be)
+
 
 
 
