@@ -57,7 +57,7 @@ This dashboard was created to understand the key events that happened before and
 - Out of the 3 pasenger ticket classes, 3rd class ticket holders had the highest deaths while 1st class ticket holders had the highest survival count.
 - More females survived compared to males. 
 
-
+## Sales Dashboard
 
 
 
